@@ -1,7 +1,7 @@
 # 2023_Most_Popular_Spotify_Songs
 This Exploratory Data Science Project aims to investigate trends and patterns in the most streamed songs of 2023 on Spotify.
 
-## Objective and Scope¶
+### Objective and Scope
 * Collect, clean and analyze the spotify dataset from Kaggle: [2023_Spotify_Songs](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 * Determine variables that contribute to song popularity
 * Visualize data to show relationships between variables
